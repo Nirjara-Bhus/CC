@@ -1,0 +1,52 @@
+1) search Google cloud SDK windows download /  https://docs.cloud.google.com/sdk/docs/install-sdk
+
+2) Click Google cloud CLI installer for Windows 
+Run the .exe file
+Keep default settings
+
+3)After install:
+
+👉 Open Command Prompt in your laptop / PC and type command =>
+
+  gcloud init
+
+What happens:
+Browser opens
+Login with your Gmail
+Create/select project (just press Enter
+
+4) In command prompt execute these 2 commands 
+
+mkdir my-app
+
+cd my-app
+
+5) now open file explorer 
+
+This PC → Local Disk (C:) → Users → YourName
+You’ll see my-app folder there
+
+OR
+
+in command prompt type→ explorer . 
+(it will directly open my-app folder )
+
+6) Create / paste 2 files in that folder
+
+main.py & app.yaml
+
+7) inside my-app folder ... right click anywhere ... then open in terminal
+
+type command=
+
+python main.py
+
+8)🌐 See output
+
+Open browser and go to:
+
+http://localhost:8080    (or seach localhost 8080 and open first link )
+
+👉 Output:
+
+Hello, App Engine!
