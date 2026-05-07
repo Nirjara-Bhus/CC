@@ -1,0 +1,8 @@
+https://github.com/Nirjara-Bhus/PaaS
+
+https://eu-north-1.console.aws.amazon.com/amplify/apps/dr97gbszuyagu/branches/main/deployments
+
+nirjarabhus@1746
+Nirjara-Bhus
+
+https://eu-north-1.console.aws.amazon.com/amplify/apps/dr97gbszuyagu/overview?region=eu-north-1
